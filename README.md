@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Juan Fernando Martínez Ruiz</h1>
-<h3 align="center">Passionate about embedded systems, AI, and software development</h3>
+<h3 align="center">Electronics & Telecom Engineering Student | Embedded Systems & AI Enthusiast</h3>
 
 ---
 
-- 🔭 Currently working on:  
-  `Price analizer`, `Elevator in VHDL`, and more.
+- 🎓 Currently pursuing a degree in **Electronic and Telecommunications Engineering** at **Universidad del Cauca**.  
+- 🔭 Actively working on: `Price Analyzer`, `Elevator in VHDL`, and other embedded and software development projects.
+- 🚀 Improving skills in: **VHDL**, **Machine Learning**, and **Kotlin Multiplatform**
+- 📫 Reach me at: [martijuanfer@gmail.com](mailto:martijuanfer@gmail.com)  
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/juanfermartinez)
 
-- 🌱 Learning and improving: **VHDL, Machine Learning, Kotlin Multiplatform**
+---
 
-- 📫 Contact me: **martijuanfer@gmail.com**
+### 👨‍💻 About Me
 
-- 🌐 LinkedIn: [juanfermartinez](https://www.linkedin.com/in/juanfermartinez)
+I’m an aspiring engineer with a strong passion for embedded systems, VHDL hardware design, and intelligent software solutions.  
+I enjoy building real-world systems that combine low-level hardware with high-level intelligence.
 
 ---
 
@@ -35,13 +39,13 @@
 ### 🚀 Featured Projects
 
 - 🔍 [Fake News Detector](https://github.com/JuanFerMartinez/Fake-News-Detector)  
-  Detects fake news using NLP + Machine Learning in Python.
+  A machine learning pipeline that detects fake news using NLP techniques in Python.
 
-- 🔐 [Security System - PIC16F887](https://github.com/JuanFerMartinez/SecuritySistem_Pic16f887)  
-  Home security system using a PIC microcontroller and LCD display.
+- 🔐 [PIC16F887 Security System](https://github.com/JuanFerMartinez/SecuritySistem_Pic16f887)  
+  A real-time embedded system for home security using LCD and sensor integration.
 
-- ⚙️ [VHDL ELEVATOR](https://github.com/JuanFerMartinez/VHDL-ELEVATOR)  
-  Elevator developed in VHDL.
+- 🛗 [Elevator in VHDL](https://github.com/JuanFerMartinez/VHDL-ELEVATOR)  
+  Multi-floor elevator control system implemented in VHDL, simulating real-time behavior on FPGA.
 
 ---
 
@@ -53,4 +57,4 @@
 
 ---
 
-### 🧭 “Building ideas through code — for the world.”
+### 🧭 "Engineering is how I build ideas — coding is how I bring them to life."
