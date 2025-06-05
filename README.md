@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently working on:  
-  `Fake News Detector`, `Security System with PIC16F887`, `ALU Design`, and more.
+  `Price analizer`, `Elevator in VHDL`, and more.
 
 - 🌱 Learning and improving: **VHDL, Machine Learning, Kotlin Multiplatform**
 
