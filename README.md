@@ -44,7 +44,7 @@ I enjoy building real-world systems that combine low-level hardware with high-le
 - 🔐 [PIC16F887 Security System](https://github.com/JuanFerMartinez/SecuritySistem_Pic16f887)  
   A real-time embedded system for home security using LCD and sensor integration.
 
-- 🛗 [Elevator in VHDL](https://github.com/JuanFerMartinez/VHDL-ELEVATOR)  
+-   [Elevator in VHDL](https://github.com/JuanFerMartinez/VHDL-ELEVATOR)  
   Multi-floor elevator control system implemented in VHDL, simulating real-time behavior on FPGA.
 
 ---
