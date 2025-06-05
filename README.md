@@ -40,8 +40,8 @@
 - 🔐 [Security System - PIC16F887](https://github.com/JuanFerMartinez/SecuritySistem_Pic16f887)  
   Home security system using a PIC microcontroller and LCD display.
 
-- ⚙️ [ALU](https://github.com/JuanFerMartinez/ALU)  
-  Simulated Arithmetic Logic Unit coded in C.
+- ⚙️ [VHDL ELEVATOR](https://github.com/JuanFerMartinez/VHDL-ELEVATOR)  
+  Elevator developed in VHDL.
 
 ---
 
